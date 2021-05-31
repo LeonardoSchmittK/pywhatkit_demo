@@ -1,3 +1,3 @@
 # pywhatkit demo
 
--  An simple demo to the pip module to make messages auto in WhatsApp.
+-  A simple demo to the pip module to make messages auto in WhatsApp.
